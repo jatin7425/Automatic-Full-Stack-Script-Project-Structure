@@ -438,6 +438,5 @@ This setup script is designed to streamline the creation of a full-stack project
 For any issues during the setup process, review the log files in the **log/** folder. Customize and extend the generated files as needed to suit your specific project requirements.
 
 *End of README*
-```
 
 ---
